@@ -21,16 +21,16 @@
 
     	    </ImageView>
 
-    	    <LinearLayout
-    	        android:layout_width="fill_parent"
-    	        android:layout_height="fill_parent"
-    	        android:orientation="vertical">
+		<Button
+			android:id="@+id/btnSos"
+			android:layout_height="wrap_content"
+			android:layout_width="match_parent"
+			android:text="SOS"
+			android:background="@color/colorRed"
+			android:backgroud="@android:color/colorRed"
+			android:layout_gravity="center_horizontal|bottom"
+			android:paddingLeft="15dip"
+			android:paddingRight="15dip" />
 
-    	        <TextView
-    	            android:layout_width="fill_parent"
-    	            android:layout_height="wrap_content"
-    	            android:text="@string/hello" />
-
-    	    </LinearLayout>
-    	</FrameLayout>
+	</FrameLayout>
 </RelativeLayout>
