@@ -9,12 +9,12 @@ import android.view.View;
 
 import com.mobile.puntahermosa.puntahermosamobile.R;
 
-public class MainMobile extends AppCompatActivity {
+public class EventRegister extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main_mobile);
+        setContentView(R.layout.activity_event_register);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 

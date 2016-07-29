@@ -3,4 +3,12 @@
     <string name="action_settings">Settings</string>
     <string name="title_activity_login">Login</string>
     <string name="hello">Punta Hermosa Avanza</string>
+    <string name="title_activity_main_mobile">MainMobile</string>
+    <string name="title_activity_event_register">EventRegister</string>
+    <string name="imagen_central">Imagen central</string>
+
+    <string name="evento_string">Eventos</string>
+    <string name="emergencia_string">Emergencia</string>
+        <string name="sugerencia_string">Sugerencias</string>
+    <string name="cerrarsesion_string">Cerrar Sesión</string>
 </resources>
