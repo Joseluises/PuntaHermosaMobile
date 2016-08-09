@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Municipalidad de Punta Hermosa</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Ingrese Email</string>
+    <string name="prompt_pwd">Ingrese Contraseña</string>
+    <string name="prompt_name">Ingrese Nombre</string>
+    <string name="prompt_lastname">Ingrese Apellido</string>
+    <string name="prompt_sug">Sugerencia</string>
+
+    <string name="btn_signin">Iniciar Sesion</string>
+    <string name="btn_signup">Registrarse</string>
+    <string name="btn_subs">Suscribirse</string>
+    <string name="btn_unsubs">Desuscribirse</string>
+    <string name="btn_sug">Enviar Sugerencia</string>
+
+    <string name="act_eve">Eventos</string>
+    <string name="act_sos">EMERGENCIA</string>
+    <string name="act_sug">Sugerencias</string>
+
+    <string name="title_activity_registrar_usuario">Registrar Usuario</string>
+    <string name="title_activity_eventos">Acciones</string>
+    <string name="title_activity_lista_eventos">Eventos</string>
+    <string name="title_activity_sugerencia">Sugerencias</string>
+</resources>
